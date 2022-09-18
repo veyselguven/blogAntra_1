@@ -8,5 +8,19 @@
 }
 
 body {
+  width: 100%;
   font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .subscribe {
+    font-size: 1.7rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+  main {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
