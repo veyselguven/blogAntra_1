@@ -1,4 +1,6 @@
 main {
+  margin-left: 20px;
+  margin-right: 20px;
   margin-top: 40px;
   display: grid;
   grid-template-columns: 1fr 1fr;

@@ -3,8 +3,9 @@ footer {
   margin: 40px auto;
   padding: 30px;
   padding-bottom: 5px;
+  border: 1px solid;
   text-align: center;
-  background-color: rgb(224, 238, 238);
+  background-color: rgba(128, 128, 128, 0.147);
 }
 
 #footer_text span a {
